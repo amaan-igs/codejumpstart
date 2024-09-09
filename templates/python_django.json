@@ -1,0 +1,11 @@
+{
+    "folderStructure": {
+      "my_project/": ["manage.py", "my_project/settings.py", "my_project/urls.py"],
+      "README.md": "# ${projectName}",
+      ".gitignore": "*.pyc\n__pycache__/"
+    },
+    "files": {
+      "my_project/manage.py": "import os\nimport sys\nif __name__ == '__main__':\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'my_project.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError('Couldn't import Django.') from exc\n    execute_from_command_line(sys.argv)"
+    }
+  }
+  

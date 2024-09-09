@@ -1,0 +1,18 @@
+{
+  "folderStructure": {
+    "src/": ["index.js", "routes/"],
+    "README.md": "# ${projectName}",
+    ".gitignore": "node_modules/"
+  },
+  "files": {
+    "src/index.js": "const express = require('express');\nconst app = express();\napp.listen(3000, () => console.log('Server is running on port 3000'));",
+    "package.json": {
+      "name": "${projectName}",
+      "version": "1.0.0",
+      "main": "src/index.js",
+      "dependencies": {
+        "express": "^4.17.1"
+      }
+    }
+  }
+}

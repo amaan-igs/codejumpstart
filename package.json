@@ -1,0 +1,36 @@
+{
+  "name": "codejumpstart",
+  "displayName": "CodeJumpstart",
+  "description": "Fuel your projects, one scaffold at a time.",
+  "version": "1.0.0",
+  "publisher": "amaan-ul-haq-siddiqui",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onCommand:codejumpstart.scaffoldProject"
+  ],
+  "main": "extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "codejumpstart.scaffoldProject",
+        "title": "Scaffold New Project With CodeJumpstart"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run package",
+    "package": "vsce package"
+  },
+  "keywords": [
+    "boilerplate",
+    "scaffold",
+    "CodeJumpstart",
+    "quickstart"
+  ],
+  "dependencies": {}
+}
