@@ -1,7 +1,0 @@
-# This project was initialized using the CodeJumpstart Visual Studio Code extension.
-
-node_modules/
-.DS_Store
-dist/
-.vscode/
-.env
