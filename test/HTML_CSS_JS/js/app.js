@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", () => { console.log("CodeJumpstart - Fuel your projects, one setup at a time. Created by Amaan Ul Haq Siddiqui."); });
