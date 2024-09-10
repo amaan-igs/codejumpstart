@@ -1,7 +1,7 @@
 {
   "name": "codejumpstart",
   "displayName": "CodeJumpstart",
-  "description": "Fuel your projects, one scaffold at a time.",
+  "description": "Fuel your projects, one setup at a time.",
   "version": "1.0.0",
   "publisher": "amaan-ul-haq-siddiqui",
   "engines": {
@@ -11,14 +11,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:codejumpstart.scaffoldProject"
+    "onCommand:codejumpstart.initializeProject"
   ],
   "main": "extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "codejumpstart.scaffoldProject",
-        "title": "Scaffold New Project With CodeJumpstart"
+        "command": "codejumpstart.initializeProject",
+        "title": "Initialize New Project with CodeJumpstart"
       }
     ]
   },
@@ -28,9 +28,10 @@
   },
   "keywords": [
     "boilerplate",
-    "scaffold",
+    "initialize",
     "CodeJumpstart",
-    "quickstart"
+    "quickstart",
+    "setup"
   ],
   "dependencies": {}
 }
