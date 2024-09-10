@@ -2,7 +2,7 @@
 
 **Fuel your projects, one setup at a time.**
 
-This project was scaffolded using the CodeJumpstart Visual Studio Code extension, created by **Amaan Ul Haq Siddiqui**.
+This project was initialized using the CodeJumpstart Visual Studio Code extension.
 
 ## Project Structure
 
@@ -15,8 +15,6 @@ This project was scaffolded using the CodeJumpstart Visual Studio Code extension
 
 - A simple boilerplate for HTML, CSS, and JavaScript projects.
 - Includes navigation between "Home" and "About" pages.
-- Connects to LinkedIn and GitHub profiles of the creator.
-
 ## Getting Started
 
 1. Clone the repository.
