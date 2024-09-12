@@ -12,7 +12,7 @@ CodeJumpstart is a VS Code extension that helps developers quickly initialize pr
 ## Usage
 1. Install the extension from the VS Code marketplace.
 2. Open the command palette (`Ctrl+Shift+P`).
-3. Select `Initialize New Project` from CodeJumpstart.
+3. Select `Initialize New Project with CodeJumpstart`.
 4. Choose your language/framework and provide a project name.
 5. Start coding!
 
