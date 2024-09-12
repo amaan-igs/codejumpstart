@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "amaan-ul-haq-siddiqui",
   "engines": {
-    "vscode": "^1.93.0"
+    "vscode": "^1.89.0"
   },
   "icon": "./assets/circle-codejumpstart-logo-128x128px.png", 
   "categories": [
@@ -36,7 +36,7 @@
     "setup"
   ],
   "devDependencies": {
-    "@types/vscode": "^1.93.0",
+    "@types/vscode": "^1.89.0",
     "@types/mocha": "^10.0.7",
     "@types/node": "20.x",
     "eslint": "^9.9.1",
