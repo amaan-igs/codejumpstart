@@ -1,7 +1,7 @@
 # CodeJumpstart
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)
-https://img.shields.io/github/license/cweijan/vscode-database-client
+![Github Actions](https://img.shields.io/github/license/cweijan/vscode-database-client)
 # 
 **Fuel your projects, one setup at a time.**
 
