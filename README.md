@@ -22,6 +22,5 @@ CodeJumpstart is a VS Code extension that helps developers quickly initialize pr
 ### Customization
 You can add your own templates by modifying the `templates` folder in the extension directory.
 
----
 <hr>
 Made by Amaan Ul Haq Siddiqui.
