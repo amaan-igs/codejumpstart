@@ -21,4 +21,4 @@ You can add your own templates by modifying the `templates` folder in the extens
 
 ---
 
-Made by Amaan Ul Haq Siddiqui.
+Made by [Amaan Ul Haq Siddiqui](https://www.linkedin.com/in/amaanulhaqsiddiqui/).
