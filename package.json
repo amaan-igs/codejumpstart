@@ -2,12 +2,12 @@
   "name": "codejumpstart",
   "displayName": "CodeJumpstart",
   "description": "VS Code extension that helps developers quickly initialize projects.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "amaan-ul-haq-siddiqui",
   "engines": {
     "vscode": "^1.89.0"
   },
-  "icon": "./assets/circle-codejumpstart-logo-128x128px.png", 
+  "icon": "./assets/circle-codejumpstart-logo-128x128px.png",
   "categories": [
     "Other"
   ],
