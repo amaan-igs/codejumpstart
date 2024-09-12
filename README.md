@@ -1,5 +1,4 @@
 # CodeJumpstart
-</hr>
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)
 ![Github Actions](https://img.shields.io/github/license/cweijan/vscode-database-client)
@@ -24,5 +23,5 @@ CodeJumpstart is a VS Code extension that helps developers quickly initialize pr
 You can add your own templates by modifying the `templates` folder in the extension directory.
 
 ---
-
+<hr>
 Made by Amaan Ul Haq Siddiqui.
