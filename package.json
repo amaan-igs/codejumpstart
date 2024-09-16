@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.89.0"
   },
-  "icon": "./assets/circle-codejumpstart-logo-128x128px.png",
+  "icon": "./assets/cjs.png",
   "categories": [
     "Other"
   ],
