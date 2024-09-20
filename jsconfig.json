@@ -1,5 +1,7 @@
+
 {
 	"compilerOptions": {
+		"_comment": "CodeJumpstart - Typesafety",
 		"module": "Node16",
 		"target": "ES2022",
 		"checkJs": true,  /* Typecheck .js files. */
