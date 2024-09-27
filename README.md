@@ -7,7 +7,6 @@
 > https://dev.inotech-pk.com/projects/codejumpstart.html
 <br>
 #
-**Fuel your projects, one setup at a time.**
 CodeJumpstart is a VS Code extension that helps developers quickly initialize projects in multiple languages and frameworks. Whether you're starting a new Node.js, Python, C/C++ project or HTML/CSS project, CodeJumpstart sets up everything you need in seconds.
 
 ## Features
