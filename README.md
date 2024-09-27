@@ -3,10 +3,8 @@
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/windows.yml?label=Windows%20Build&style=flat-square)
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/microsoft/vscode-java-dependency/linux.yml?label=Linux%20Build&style=flat-square)
 ![Github Actions](https://img.shields.io/github/license/cweijan/vscode-database-client)
-
-> https://dev.inotech-pk.com/projects/codejumpstart.html
+> Documentation @ https://dev.inotech-pk.com/projects/codejumpstart.html
 <br>
-#
 CodeJumpstart is a VS Code extension that helps developers quickly initialize projects in multiple languages and frameworks. Whether you're starting a new Node.js, Python, C/C++ project or HTML/CSS project, CodeJumpstart sets up everything you need in seconds.
 
 ## Features
